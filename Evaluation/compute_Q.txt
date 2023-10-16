@@ -1,0 +1,32 @@
+compute_Q= [[-1.0197477]]
+compute_Q= [[-1.0064021]]
+compute_Q= [[-0.99308836]]
+compute_Q= [[-0.97864425]]
+compute_Q= [[-0.9552239]]
+compute_Q= [[0.3184724]]
+compute_Q= [[0.56537986]]
+compute_Q= [[0.8062365]]
+compute_Q= [[0.8135779]]
+compute_Q= [[0.7574625]]
+compute_Q= [[0.6451953]]
+compute_Q= [[0.55150354]]
+compute_Q= [[0.4670164]]
+compute_Q= [[0.39799702]]
+compute_Q= [[0.3732441]]
+compute_Q= [[0.32624435]]
+compute_Q= [[0.2664932]]
+compute_Q= [[0.21054757]]
+compute_Q= [[0.15460213]]
+compute_Q= [[0.09865656]]
+compute_Q= [[0.05628753]]
+
+
+
+
+
+
+
+
+
+
+
